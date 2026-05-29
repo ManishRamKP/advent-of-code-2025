@@ -29,4 +29,4 @@ for range_str in data.strip().split(','):
         if is_invalid(n):
             total += n
 
-print(total)
+print(total) #24774350322
